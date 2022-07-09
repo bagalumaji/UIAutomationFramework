@@ -28,6 +28,11 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.2.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.aeonbits.owner</groupId>
+            <artifactId>owner</artifactId>
+            <version>1.0.12</version>
+        </dependency>
     </dependencies>
 
 </project>
